@@ -1,5 +1,5 @@
 import { connect } from 'cloudflare:sockets';
-//说明：抛弃了ed配置，不要设置/?ed=2560，xhttp不适合pages部署，理论上也支持Snippets付费版部署
+//说明：抛弃了ed配置，不要设置/?ed=2560，xhttp不适合pages部署，理论上也支持Snippets付费版
 let 哎呀呀这是我的VL密钥 = "ae23a15c-cbcc-4dd7-bb51-5b70cc0a62a8";
 
 let 启用反代功能 = true //选择是否启用反代功能【总开关】，false，true，现在你可以自由的选择是否启用反代功能了
